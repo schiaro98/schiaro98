@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**schiaro98/schiaro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Davide. I was born in 1998 in Ancona and at the moment i live in Cesena.
+I'm currently studying for my master's degree in Engineering and Computer Science.
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+  - Institutional email: davide.schiaroli2@studio.unibo.it
+  - Personal email: davide.schiaroli1998@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/davide-schiaroli/)
+  - [CodersRank](https://profile.codersrank.io/user/schiaro98/)
+  
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=schiaro98&theme=nord)](https://github.com/schiaro98/github-profile-trophy)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=schiaro98&show_icons=true&theme=nord&count_private=true)](https://github.com/schiaro98/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=schiaro98&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schiaro98&theme=nord&hide=shaderlab)](https://github.com/schiaro98/github-readme-stats)
+  
+</div>
