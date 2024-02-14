@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Hi, I'm Davide. I was born in 1998 in Ancona and at the moment i live in Cesena.
-I'm currently studying for my master's degree in Engineering and Computer Science.
+Hi, I'm Davide. I was born in 1998 in Ancona and at the moment i live in San Marino.
+I'm currently working as Cloud Engineer at Passepartout S.p.a.
 
 - 📫 How to reach me:
-  - Institutional email: davide.schiaroli2@studio.unibo.it
   - Personal email: davide.schiaroli1998@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/davide-schiaroli/)
   - [CodersRank](https://profile.codersrank.io/user/schiaro98/)
