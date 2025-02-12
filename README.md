@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Davide. I was born in 1998 in Ancona and at the moment i live in San Marino.
+Hi, I'm Davide. I was born in 1998 in Ancona and at the moment i work in San Marino.
 I'm currently working as Cloud Engineer at Passepartout S.p.a.
 
 - 📫 How to reach me:
