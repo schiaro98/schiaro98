@@ -14,8 +14,8 @@ I'm currently working as Cloud Engineer at Passepartout S.p.a.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=schiaro98&show_icons=true&theme=nord&count_private=true)](https://github.com/schiaro98/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=schiaro98&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=schiaro98)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schiaro98&theme=nord&hide=shaderlab)](https://github.com/schiaro98/github-readme-stats)
   
 </div>
